@@ -1,0 +1,11 @@
+/Users/wys/csharpproject/FileStreamDemo/bin/Debug/netcoreapp2.1/FileStreamDemo.deps.json
+/Users/wys/csharpproject/FileStreamDemo/bin/Debug/netcoreapp2.1/FileStreamDemo.runtimeconfig.json
+/Users/wys/csharpproject/FileStreamDemo/bin/Debug/netcoreapp2.1/FileStreamDemo.runtimeconfig.dev.json
+/Users/wys/csharpproject/FileStreamDemo/bin/Debug/netcoreapp2.1/FileStreamDemo.dll
+/Users/wys/csharpproject/FileStreamDemo/bin/Debug/netcoreapp2.1/FileStreamDemo.pdb
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.csprojAssemblyReference.cache
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.csproj.CoreCompileInputs.cache
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.AssemblyInfoInputs.cache
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.AssemblyInfo.cs
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.dll
+/Users/wys/csharpproject/FileStreamDemo/obj/Debug/netcoreapp2.1/FileStreamDemo.pdb
